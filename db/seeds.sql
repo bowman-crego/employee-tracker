@@ -16,3 +16,7 @@ VALUES ('Jim','Smith', 2, 3),
        ('John', 'Green', 1, NULL),
        ('Jane', 'Austin', 3, 2),
        ('Jimmy', 'Carter', 4, 3);
+
+SELECT * FROM department;
+SELECT * FROM role;
+SELECT * FROM employee;
